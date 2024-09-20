@@ -1,5 +1,5 @@
-# WalnutDetect
-Overview
+# Walnut Detection
+# Overview
 This repository contains a computer vision project where I applied deep learning to distinguish between walnut shells and kernels. The aim was to develop a machine vision solution for automating the separation of kernels from shells, a process currently done manually in the industry, which is highly labor-intensive.
 
 The challenge with automating this task is that both the shells and kernels are similar in color and texture, which makes traditional machine learning techniques less effective. However, deep learning, when provided with sufficient data, can perform significantly better in such scenarios.
